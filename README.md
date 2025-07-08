@@ -59,6 +59,12 @@ poetry run get-papers-list "cancer immunotherapy" --file results.csv
 ## Tools & Libraries Used
 
 - [Biopython](https://biopython.org/) – for PubMed access  
-- [Poetry](https://python-poetry.org/) – for dependency and script management  
+- [Poetry](https://python-poetry.org/) – for dependency and script management
+
+ ## Summary of PubMed API calls used
+API Function	Purpose	Code Used
+- esearch	Search for PubMed IDs	✅
+- efetch	Get metadata for papers	✅
+
 
 
