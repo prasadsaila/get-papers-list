@@ -3,7 +3,7 @@ import re
 from typing import List, Tuple, Optional
 from Bio import Entrez
 
-Entrez.email = "your-email@example.com"
+Entrez.email = "prasadsaila169@gmail.com"
 
 def is_non_academic(affiliation: str) -> bool:
     academic_keywords = ["university", "institute", "college", "school", "hospital", "center", "centre", "department"]
