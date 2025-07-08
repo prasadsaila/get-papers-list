@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "get-papers-list"
+name = "get-papers-list-prasad-saila"
 version = "0.1.0"
 description = "Fetch PubMed papers with non-academic pharma/biotech authors."
-authors = ["Your Name <your.email@example.com>"]
+authors = ["prasad <prasadsaila169@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 packages = [
